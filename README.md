@@ -14,3 +14,8 @@ Tests
 Coverage
 
     mvn clean cobertura:cobertura
+
+
+#### Running
+
+    mvn clean jetty:run
